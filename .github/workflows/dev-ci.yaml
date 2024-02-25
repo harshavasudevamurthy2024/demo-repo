@@ -45,4 +45,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Deploy package
-        run: echo package deployed
+        run: sleep 60
